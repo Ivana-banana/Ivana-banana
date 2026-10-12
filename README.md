@@ -73,8 +73,8 @@ ITMO University · хакатон-команда [«недовосторг»](ht
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ivana-banana/Ivana-banana/output/monkey-dark.svg">
-  <img src="https://raw.githubusercontent.com/Ivana-banana/Ivana-banana/output/monkey.svg" alt="Monkey jumping over contributions" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ivana-banana/Ivana-banana/output/runner-dark.svg">
+  <img src="https://raw.githubusercontent.com/Ivana-banana/Ivana-banana/output/runner.svg" alt="Cyclops collecting bananas from contributions" />
 </picture>
 
 <sub>🍌 сделано на бананах</sub>

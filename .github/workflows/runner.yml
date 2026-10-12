@@ -1,4 +1,4 @@
-name: Generate Banana Monkey
+name: Generate Banana Runner
 
 on:
   schedule:
@@ -16,8 +16,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Draw monkey over the contribution grid
-        run: python3 .github/monkey/monkey.py Ivana-banana dist
+      - name: Draw banana collector over the contribution grid
+        run: python3 .github/runner/runner.py Ivana-banana dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
