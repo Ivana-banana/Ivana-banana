@@ -6,8 +6,8 @@
 
 <a href="https://ivana-banana.github.io">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=FFD23F&center=true&vCenter=true&width=520&lines=Python+Developer;ITMO+%C2%B7+Software+Engineering;8+hackathons+in+2026;2%C3%97+3rd+place+%C2%B7+300+000+%E2%82%BD;Powered+by+bananas">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=8A6400&center=true&vCenter=true&width=520&lines=Python+Developer;ITMO+%C2%B7+Software+Engineering;8+hackathons+in+2026;2%C3%97+3rd+place+%C2%B7+300+000+%E2%82%BD;Powered+by+bananas" alt="Typing SVG" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=FFD23F&center=true&vCenter=true&width=520&lines=Python+Developer;ITMO+%C2%B7+Software+Engineering;9+hackathons+in+2026;2%C3%97+3rd+place+%C2%B7+300+000+%E2%82%BD;Powered+by+bananas">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=8A6400&center=true&vCenter=true&width=520&lines=Python+Developer;ITMO+%C2%B7+Software+Engineering;9+hackathons+in+2026;2%C3%97+3rd+place+%C2%B7+300+000+%E2%82%BD;Powered+by+bananas" alt="Typing SVG" />
   </picture>
 </a>
 
@@ -30,9 +30,9 @@ ITMO University · хакатон-команда [«недовосторг»](ht
 
 ---
 
-**RU** — Студент программной инженерии ИТМО (ФПИКТ), пишу на Python. С июля 2026 года — 8 хакатонов в составе команды [«недовосторг»](https://nedovost.org): робототехника на ROS 2, оптимизация, ML и агентные системы. Два третьих места и 300 000 ₽ призовых у команды. Бананы — топливо.
+**RU** — Студент программной инженерии ИТМО (ФПИКТ), пишу на Python. С июля 2026 года — 9 хакатонов в составе команды [«недовосторг»](https://nedovost.org): робототехника на ROS 2, оптимизация, ML и агентные системы. Два третьих места, два финала и 300 000 ₽ призовых у команды. Бананы — топливо.
 
-**EN** — Software engineering student at ITMO University, writing Python. Since July 2026 — 8 hackathons with team [«недовосторг»](https://nedovost.org): ROS 2 robotics, optimization, ML and agentic systems. Two 3rd places and 300 000 ₽ in team prizes. Fueled by bananas.
+**EN** — Software engineering student at ITMO University, writing Python. Since July 2026 — 9 hackathons with team [«недовосторг»](https://nedovost.org): ROS 2 robotics, optimization, ML and agentic systems. Two 3rd places, two finals and 300 000 ₽ in team prizes. Fueled by bananas.
 
 <div align="center">
 
@@ -54,6 +54,7 @@ ITMO University · хакатон-команда [«недовосторг»](ht
 | 🥉 | Хакатон Московского транспорта | [Трамвай без GNSS](https://nedovost.org/projects/tram-odometry) — резервная одометрия беспилотного трамвая · ROS 2, C++ | **III&nbsp;место · 200&nbsp;000&nbsp;₽** |
 | 🥉 | КосмоХакатон 2026 | [Топливный космоконтур 2035](https://nedovost.org/projects/fuel-contour-2035) — MILP-планирование орбитального топливного узла | **III&nbsp;место · 100&nbsp;000&nbsp;₽** |
 | 🍌 | КосмоХакатон 2026 · финал | [FloodValue](https://nedovost.org/projects/floodvalue) — карта паводков по снимкам Sentinel-1 · PyTorch | Финалисты |
+| 🍌 | PostCode Challenge от Почтатеха · финал | Цифровой двойник отделения Почты России — редактор плана, проверки и рекомендации · React, Konva, Three.js | Финалисты |
 | 🍌 | RLT.Hack | [Подбор поставщиков для госзакупок](https://nedovost.org/projects/rlt-suppliers) | 5 место |
 | 🍌 | Хакатон MAX | [Первые 90 дней иностранного студента](https://nedovost.org/projects/max-first-90-days) — бот и мини-приложение | Итоги не объявлены |
 | 🍌 | Sber × AIRI | [ИБ-агент на маленькой локальной модели](https://nedovost.org/projects/sber-airi-agent) | Участие |
@@ -64,7 +65,7 @@ ITMO University · хакатон-команда [«недовосторг»](ht
 
 | | RU | EN |
 |---|---|---|
-| **[ivana-banana.github.io](https://github.com/Ivana-banana/ivana-banana.github.io)** | Сайт-визитка и отчёты по лабораторным: MkDocs Material, автодеплой через GitHub Actions | Portfolio site and lab reports: MkDocs Material, auto-deployed with GitHub Actions |
+| **[ivana-banana.github.io](https://github.com/Ivana-banana/ivana-banana.github.io)** | Сайт-визитка: достижения и хакатоны, MkDocs Material, автодеплой через GitHub Actions | Portfolio site with achievements and hackathons: MkDocs Material, auto-deployed with GitHub Actions |
 | **[WebYandex](https://github.com/Ivana-banana/WebYandex)** | Веб-приложение на Flask: авторизация, формы, SQLAlchemy — проект Яндекс Лицея | Flask web app with auth, forms and SQLAlchemy — Yandex Lyceum project |
 | **[YandexQT](https://github.com/Ivana-banana/YandexQT)** | Учебный веб-сервис с REST API на Flask-RESTful | Study web service with a Flask-RESTful API |
 | **[Pygame](https://github.com/Ivana-banana/Pygame)** | Shooting practice — игра на Pygame | Shooting practice — a Pygame game |
@@ -72,8 +73,8 @@ ITMO University · хакатон-команда [«недовосторг»](ht
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ivana-banana/Ivana-banana/output/github-contribution-grid-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/Ivana-banana/Ivana-banana/output/github-contribution-grid-snake.svg" alt="Banana snake eating contributions" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ivana-banana/Ivana-banana/output/monkey-dark.svg">
+  <img src="https://raw.githubusercontent.com/Ivana-banana/Ivana-banana/output/monkey.svg" alt="Monkey jumping over contributions" />
 </picture>
 
 <sub>🍌 сделано на бананах</sub>
