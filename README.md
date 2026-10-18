@@ -30,9 +30,9 @@ ITMO University · хакатон-команда [«недовосторг»](ht
 
 ---
 
-**RU** — Студент программной инженерии ИТМО (ФПИКТ), пишу на Python. За плечами 19 хакатонов, с июля 2026 года — в составе команды [«недовосторг»](https://nedovost.org): ML, робототехника на ROS 2, оптимизация и агентные системы. Победы на ML4Pay и «Время IT», три третьих места, финал КосмоХакатона и 400 000 ₽ призовых у команды. Код всех решений — в репозиториях ниже. Бананы — топливо.
+**RU** — Студент программной инженерии ИТМО (ФПИКТ), пишу на Python. За плечами 19 хакатонов, с июля 2026 года — в составе команды [«недовосторг»](https://nedovost.org): ML, робототехника на ROS 2, оптимизация и агентные системы. Победы на ML4Pay и «Время IT», три третьих места и финал КосмоХакатона. Код всех решений — в репозиториях ниже. Бананы — топливо.
 
-**EN** — Software engineering student at ITMO University, writing Python. 19 hackathons so far, since July 2026 with team [«недовосторг»](https://nedovost.org): ML, ROS 2 robotics, optimization and agentic systems. Winners of ML4Pay and «Время IT», three 3rd places, a KosmoHackathon final and 400 000 ₽ in team prizes. Code for every solution is in the repos below. Fueled by bananas.
+**EN** — Software engineering student at ITMO University, writing Python. 19 hackathons so far, since July 2026 with team [«недовосторг»](https://nedovost.org): ML, ROS 2 robotics, optimization and agentic systems. Winners of ML4Pay and «Время IT», three 3rd places and a KosmoHackathon final. Code for every solution is in the repos below. Fueled by bananas.
 
 <div align="center">
 
@@ -51,10 +51,10 @@ ITMO University · хакатон-команда [«недовосторг»](ht
 
 | | Хакатон | Проект | Код | Результат |
 |---|---|---|---|---|
-| 🏆 | «Время IT» (ГУАП × «Звук») · окт 2026 | [Valaróma](https://valaroma.nedovost.org) — караоке-баттл в браузере: мелодия и ритм оцениваются отдельно, с объяснением ошибок · React, FastAPI | [Valaroma](https://github.com/Ivana-banana/Valaroma) | **I&nbsp;место · 100&nbsp;000&nbsp;₽** |
+| 🏆 | «Время IT» (ГУАП × «Звук») · окт 2026 | [Valaróma](https://valaroma.nedovost.org) — караоке-баттл в браузере: мелодия и ритм оцениваются отдельно, с объяснением ошибок · React, FastAPI | [Valaroma](https://github.com/Ivana-banana/Valaroma) | **I&nbsp;место** |
 | 🏆 | ML4Pay (Авито × ИТМО) · май 2026 | Предсказание возвратов в Авито Доставке — LightGBM + CatBoost на 29 млн строк | [DS](https://github.com/Ivana-banana/DS) | **Победители** |
-| 🥉 | Хакатон Московского транспорта · сен 2026 | [Трамвай без GNSS](https://nedovost.org/projects/tram-odometry) — резервная одометрия беспилотного трамвая · ROS 2, C++ | [Transport_MSK](https://github.com/Ivana-banana/Transport_MSK) | **III&nbsp;место · 200&nbsp;000&nbsp;₽** |
-| 🥉 | КосмоХакатон 2026 · сен 2026 | [Топливный космоконтур 2035](https://nedovost.org/projects/fuel-contour-2035) — MILP-планирование орбитального топливного узла | [kosmo](https://github.com/Ivana-banana/kosmo) | **III&nbsp;место · 100&nbsp;000&nbsp;₽** |
+| 🥉 | Хакатон Московского транспорта · сен 2026 | [Трамвай без GNSS](https://nedovost.org/projects/tram-odometry) — резервная одометрия беспилотного трамвая · ROS 2, C++ | [Transport_MSK](https://github.com/Ivana-banana/Transport_MSK) | **III&nbsp;место** |
+| 🥉 | КосмоХакатон 2026 · сен 2026 | [Топливный космоконтур 2035](https://nedovost.org/projects/fuel-contour-2035) — MILP-планирование орбитального топливного узла | [kosmo](https://github.com/Ivana-banana/kosmo) | **III&nbsp;место** |
 | 🥉 | DS-хакатон ИТМО (кейс «Газпром нефти») · апр 2026 | Конвейер PDF → Markdown на Docling с постобработкой таблиц и заголовков | [HackathonGPN](https://github.com/Ivana-banana/HackathonGPN) | **III&nbsp;место** |
 | 🍌 | КосмоХакатон 2026 · финал | [FloodValue](https://nedovost.org/projects/floodvalue) — карта паводков по снимкам Sentinel-1 · PyTorch | [kosmo-moskva](https://github.com/Ivana-banana/kosmo-moskva) | Финалисты |
 | 🍌 | RLT.Hack (Росэлторг) · окт 2026 | [Подбор поставщиков для госзакупок](https://nedovost.org/projects/rlt-suppliers) | [RLT](https://github.com/Ivana-banana/RLT) | 5 место |
