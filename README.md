@@ -6,8 +6,8 @@
 
 <a href="https://ivana-banana.github.io">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=FFD23F&center=true&vCenter=true&width=520&lines=Python+Developer;ITMO+%C2%B7+Software+Engineering;21+hackathons+%C2%B7+code+on+GitHub;3%C3%97+1st+%C2%B7+2nd+%C2%B7+4%C3%97+3rd+place;Powered+by+bananas">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=8A6400&center=true&vCenter=true&width=520&lines=Python+Developer;ITMO+%C2%B7+Software+Engineering;21+hackathons+%C2%B7+code+on+GitHub;3%C3%97+1st+%C2%B7+2nd+%C2%B7+4%C3%97+3rd+place;Powered+by+bananas" alt="Typing SVG" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=FFD23F&center=true&vCenter=true&width=520&lines=Python+Developer;ITMO+%C2%B7+Software+Engineering;22+hackathons+%C2%B7+code+on+GitHub;3%C3%97+1st+%C2%B7+2nd+%C2%B7+4%C3%97+3rd+place;Powered+by+bananas">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=8A6400&center=true&vCenter=true&width=520&lines=Python+Developer;ITMO+%C2%B7+Software+Engineering;22+hackathons+%C2%B7+code+on+GitHub;3%C3%97+1st+%C2%B7+2nd+%C2%B7+4%C3%97+3rd+place;Powered+by+bananas" alt="Typing SVG" />
   </picture>
 </a>
 
@@ -30,9 +30,9 @@ ITMO University · хакатон-команда [«недовосторг»](ht
 
 ---
 
-**RU** — Студент программной инженерии ИТМО (ФПИКТ), пишу на Python. За плечами 21 хакатон, с июля 2026 года — в составе команды [«недовосторг»](https://nedovost.org): ML, робототехника на ROS 2, оптимизация и агентные системы. Победы на ML4Pay, «Время IT» и «Открой #Моспром», второе место на хакатоне Островка, четыре третьих места и финал КосмоХакатона. Код всех решений — в репозиториях ниже. Бананы — топливо.
+**RU** — Студент программной инженерии ИТМО (ФПИКТ), пишу на Python. За плечами 22 хакатона, с июля 2026 года — в составе команды [«недовосторг»](https://nedovost.org): ML, робототехника на ROS 2, оптимизация и агентные системы. Победы на ML4Pay, «Время IT» и «Открой #Моспром», второе место на хакатоне Островка, четыре третьих места и финал КосмоХакатона. Код всех решений — в репозиториях ниже. Бананы — топливо.
 
-**EN** — Software engineering student at ITMO University, writing Python. 21 hackathons so far, since July 2026 with team [«недовосторг»](https://nedovost.org): ML, ROS 2 robotics, optimization and agentic systems. Winners of ML4Pay, «Время IT» and «Открой #Моспром», 2nd place at the Ostrovok hackathon, four 3rd places and a KosmoHackathon final. Code for every solution is in the repos below. Fueled by bananas.
+**EN** — Software engineering student at ITMO University, writing Python. 22 hackathons so far, since July 2026 with team [«недовосторг»](https://nedovost.org): ML, ROS 2 robotics, optimization and agentic systems. Winners of ML4Pay, «Время IT» and «Открой #Моспром», 2nd place at the Ostrovok hackathon, four 3rd places and a KosmoHackathon final. Code for every solution is in the repos below. Fueled by bananas.
 
 <div align="center">
 
@@ -62,6 +62,7 @@ ITMO University · хакатон-команда [«недовосторг»](ht
 | 🍌 | КосмоХакатон 2026 · финал | [FloodValue](https://nedovost.org/projects/floodvalue) — карта паводков по снимкам Sentinel-1 · PyTorch | [kosmo-moskva](https://github.com/Ivana-banana/kosmo-moskva) | Финалисты |
 | 🍌 | RLT.Hack (Росэлторг) · окт 2026 | [Подбор поставщиков для госзакупок](https://nedovost.org/projects/rlt-suppliers) | [RLT](https://github.com/Ivana-banana/RLT) | 5 место |
 | 🍌 | ПочтаТех (Почта России) · сен 2026 | Цифровой двойник отделения — редактор плана, проверки и 3D · React, Three.js | [Pochtatex](https://github.com/Ivana-banana/Pochtatex) | 5 место |
+| 🍌 | «Точка сборки» (АЦР × GigaCowork) · окт 2026 | ИИ-агент собирает образовательную программу по шаблону АЦР: учебный план, тесты, лекции и слайды · FastAPI | [Tochka-Sborki](https://github.com/Ivana-banana/Tochka-Sborki) | Участие |
 | 🍌 | «Нефтекод 2.0» (ИТМО × «Газпром нефть») · сен 2026 | Мультиагентные рекомендации оператору гидроочистки ДТ | [Neftekod-2.0](https://github.com/Ivana-banana/Neftekod-2.0) | Участие |
 | 🍌 | Sber × AIRI · авг–сен 2026 | [ИБ-агент на маленькой локальной модели](https://nedovost.org/projects/sber-airi-agent) | [Sber](https://github.com/Ivana-banana/Sber) | Участие |
 | 🍌 | AIOS («Татнефть») · авг–сен 2026 | [Агенты управляют месторождением](https://nedovost.org/projects/aios-model-z) — мультиагентная оптимизация 103 скважин | [AIOS-Model-Z](https://github.com/Ivana-banana/AIOS-Model-Z) | Участие |
